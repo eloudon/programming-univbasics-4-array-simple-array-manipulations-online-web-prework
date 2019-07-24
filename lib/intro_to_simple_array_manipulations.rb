@@ -11,9 +11,7 @@ bouroughs_in_nyc.unshift(new_neighborhood)
 end
 
 def using_pop(array, string)
-  continents = ["Africa", "Asia", "Europe", "North America", "South America", "Oceania", "Antarctica"]
-contiinents.pop
-end
+continents = ["Africa", "Asia", "Europe", "North America", "South America", "Oceania", "Antarctica"]
 
 def pop_with_args(array)
   dog_breeds =  ["Great Dane", "Golden Retriever", "Chihuahua", "Shiba Inu"]
