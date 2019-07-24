@@ -15,4 +15,4 @@ continents = ["Africa", "Asia", "Europe", "North America", "South America", "Oce
 continents.pop
 end
 
-def pop_with_args
+def pop_with_args(array)
